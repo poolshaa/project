@@ -1,0 +1,4 @@
+﻿  Tree.cpp
+C:\Users\varya\source\repos\Tree\Tree.cpp(173,36): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\varya\source\repos\Tree\Tree.cpp(206,61): warning C4566: символ, представленный универсальным именем символа "\u2194", невозможно представить в текущей кодовой странице (1251)
+  Tree.vcxproj -> C:\Users\varya\source\repos\Tree\x64\Debug\Tree.exe
