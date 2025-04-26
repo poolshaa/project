@@ -2,7 +2,7 @@
 #include <vector>
 #include <string>
 #include <algorithm>
-#include <clocale>
+#include <clocale> // com
 #include <windows.h>
 #include <iomanip>
 using namespace std;
